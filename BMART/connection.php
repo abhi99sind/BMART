@@ -1,0 +1,1 @@
+<?php $connect=mysqli_connect("localhost","root","","bmar_dbs");?>
