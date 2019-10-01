@@ -1,2 +1,2 @@
 # BMART
-Website made of HTML, CSS, JavaScript, PHP and MySQL.
+Website made of HTML, CSS, JavaScript, PHP and MySQL as Database
